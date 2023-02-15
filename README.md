@@ -202,5 +202,6 @@ interested:
 
 ## References
 
-- [Runstone Academy: DeMorgan's Law](https://runestone.academy/ns/books/published/apcsareview/Conditionals/cDeMorgans.html)
 - [Java how to Program Early Objects, Tenth Edition](https://learning.oreilly.com/library/view/java-how-to/9780133813036/ch05lev1sec16.html#ch05lev1sec16)
+- [DeMorgans Law Java](https://www.youtube.com/watch?v=Q8urfkOAvxE)
+- 
