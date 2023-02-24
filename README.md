@@ -166,7 +166,7 @@ The `expression` variable is now set to `!(p && q)`. Using the values of `p` and
 `q`, we can see that `p && q` results in `true`. But when we negate `true` with
 the `!` operator, it turns to be `false`.
 
-Per De Morgan's Law, the complement of this expression could be `!p || !q`.
+Per De Morgan's Law, the equivalent of this expression is `!p || !q`.
 
 Now what happens when we have an expression like this:
 
